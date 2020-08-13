@@ -85,7 +85,7 @@ To see wiring see the schematics
 
 **********************************************************************************************************
 
-NOtE: if link broken you can message me on my twitter, 
+NOtE: if link broken you can message me on my twitter, or more information needed
 
 
 
