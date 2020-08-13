@@ -33,7 +33,7 @@ in SCARA-robot-Manipulator part is divided into 3 parts
 
 in this model, design SCARA-robot-Manipulator 4 DOF (Degree of freedom) 3d model can be download here,
 
-link 
+link https://drive.google.com/file/d/1ftpt8dQ1mMjUHN-1PkjAwobxOwC8gKlr/view?usp=sharing
 
 in this design we are using stepper motor in all DOF and potensiometer for anggle feed back.
 
@@ -44,13 +44,11 @@ for the design itself using Autodesk Inventor 2020.
 **********************************************************************************************************
 ------pendant control----------
 
-in this model, design pendant control can be download here,
-
-link 
+in this model, design pendant control can be download the file above
 
 and the schematics can be download here,
 
-link
+link the file above
 
 in this design we are using arduino mega and HMI 7 inch include sd card 16 Gb.
 
@@ -75,7 +73,7 @@ In Box controller include
 
 in this design schematics main controllerboard can be download here,
 
-link 
+link the file above
 
 in main boardcontroller we are using arduino mega 2560 r3 tu controlling stepper( the robot) and
 
