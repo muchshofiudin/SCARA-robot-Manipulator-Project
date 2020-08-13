@@ -73,7 +73,19 @@ In Box controller include
 
 - Step Up 24 to 42V 
 
+in this design schematics main controllerboard can be download here,
 
+link 
+
+in main boardcontroller we are using arduino mega 2560 r3 tu controlling stepper( the robot) and
+
+a feed back from potensio meter, and comucation with pendant control,
+
+To see wiring see the schematics
+
+**********************************************************************************************************
+
+NOtE: if link broken you can message me on my twitter, 
 
 
 
