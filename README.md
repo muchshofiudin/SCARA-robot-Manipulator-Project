@@ -30,6 +30,7 @@ in SCARA-robot-Manipulator part is divided into 3 parts
 
 ***********************************************************************************************************
 ------Scara Robot----------
+
 in this model, design SCARA-robot-Manipulator 4 DOF (Degree of freedom) 3d model can be download here,
 
 link 
@@ -42,6 +43,7 @@ for the design itself using Autodesk Inventor 2020.
 
 **********************************************************************************************************
 ------pendant control----------
+
 in this model, design pendant control can be download here,
 
 link 
@@ -52,10 +54,26 @@ link
 
 in this design we are using arduino mega and HMI 7 inch include sd card 16 Gb.
 
-and few button with for controlling the robot, 
+and few button for controlling the robot, 
 
 include emergency button comunication cable and on/off key button.
 
 **********************************************************************************************************
+------Box Controller----------
+
+In Box controller include
+
+- P.supply 24 V and 12 V
+
+- Main Controller Board
+
+- Driver MOtor Tb6600
+
+- and cabel cominication Output
+
+- Step Up 24 to 42V 
+
+
+
 
 
