@@ -17,7 +17,9 @@ and using driver motor tb6600.
 in SCARA-robot-Manipulator part is divided into 3 parts
 
 -Pendant control.
+
 -Box control (Include main controller).
+
 -SCARA robot.
 
 *********************************************************************************************************
