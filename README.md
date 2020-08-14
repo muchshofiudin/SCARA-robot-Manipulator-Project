@@ -59,7 +59,7 @@ in this design we are using arduino mega and HMI 7 inch include sd card 16 Gb.
 
 and few button for controlling the robot, 
 
-include emergency button comunication cable and on/off key button.
+include emergency button, comunication cable ,and on/off key button.
 
 
 **********************************************************************************************************
