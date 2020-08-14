@@ -56,6 +56,7 @@ and few button for controlling the robot,
 
 include emergency button comunication cable and on/off key button.
 
+
 **********************************************************************************************************
 ------Box Controller----------
 
@@ -75,6 +76,10 @@ in this design schematics main controllerboard can be download here,
 
 link the file above
 
+to conecting pendant component in the box controller see the picture above "Conecting Cable.jppg"
+
+becareful when youre routing cable because AC power ( who conecting emergency button and led indicator"
+
 in main boardcontroller we are using arduino mega 2560 r3 tu controlling stepper( the robot) and
 
 a feed back from potensio meter, and comucation with pendant control,
@@ -84,6 +89,3 @@ To see wiring see the schematics
 **********************************************************************************************************
 
 NOtE: if link broken you can message me on my twitter, or more information needed
-
-
-
