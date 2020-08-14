@@ -6,6 +6,11 @@
 this is our final project
 to Built a SCARA-robot-Manipulator 4 DOF (Degree of freedom)
 
+its colaborative project,. 
+
+////////////
+"In here, i am contribute to design mechanical robot and hardware design (not programing)"
+///////////
 in this chase, we are using stepper motor
 
 -Nema 17 HD 4401S + 
@@ -87,5 +92,25 @@ a feed back from potensio meter, and comucation with pendant control,
 To see wiring see the schematics
 
 **********************************************************************************************************
+
+how to turn on the robot : 
+
+1. please turn on the emergency button before connecting suppy power
+
+2. cek the cable
+
+3. make sure, pendant control conected with mainboard controller pin are true
+
+4. make sure, routing cable in boxcontroller are true
+
+5. if it is confirmed, turn off emergency button. and check one by one pendant, mainboardcontroller turn on.
+
+6. run the robot.
+ 
+
+**********************************************************************************************************
+
+
+
 
 NOtE: if link broken you can message me on my twitter, or more information needed
